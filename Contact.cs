@@ -1,12 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using CsvHelper.Configuration.Attributes;
 
 namespace AddressBookApp
 {
-    class Contact
+    public class Contact
     {
+        public Contact(string name, string phonenumber)
+        {
+            Name = name;
+            PhoneNumber = phonenumber;
+        }
+
+        [Index(0)]
         public string Name { get; set; }
-        public int PhoneNumber { get; set; }
+        [Index(1)]
+        public string PhoneNumber { get; set; }
     }
 }

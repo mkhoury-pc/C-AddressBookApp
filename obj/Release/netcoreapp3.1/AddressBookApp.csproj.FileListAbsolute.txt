@@ -1,0 +1,13 @@
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.exe
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.deps.json
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.runtimeconfig.json
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.runtimeconfig.dev.json
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.dll
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\AddressBookApp.pdb
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.AssemblyInfoInputs.cache
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.AssemblyInfo.cs
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.csproj.CoreCompileInputs.cache
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.dll
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.pdb
+C:\Users\linds\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\AddressBookApp.genruntimeconfig.cache

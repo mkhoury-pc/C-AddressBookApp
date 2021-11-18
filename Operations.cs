@@ -1,27 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Globalization;
+using System.IO;
+using CsvHelper;
+using CsvHelper.Configuration;
 
 namespace AddressBookApp
 {
-    public static class Operations
+    public class Operations
     {
-        public static string GetUserInput(string prompt)
+        // Methods for various operations
+        public static Contact AddContact()
         {
-            Console.Write(prompt);
-            return Console.ReadLine();
-        }
-        public static void AddContact()
-        {
-            Contact contact = new Contact
-            {
-                Name = GetUserInput("Enter the contact's name:  "),
-                PhoneNumber = Convert.ToInt32(GetUserInput("Enter the contact's phone number:  "))
-            };
+            Console.WriteLine("Enter the contact's name:  ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Enter the contact's phone number:  ");
+            string phonenumber = Console.ReadLine();
+            Console.WriteLine($"Added {name} with the phone number {phonenumber}");
+            var contact = new Contact(name, phonenumber);
+            return contact;
         }
 
         public static void DeleteContact()
         {
+            Console.WriteLine("Enter the name of the contact you want to delete");
+            
 
         }
 

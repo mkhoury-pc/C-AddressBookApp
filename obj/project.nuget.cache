@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "i3fddHEE5PiuNVXEwtS+hmTNuWuv6tpouItUba2CuOtQYDH9Yoc+XPL4YkGOTI80utEhSI6XxJl8Scz/uHlPxw==",
+  "dgSpecHash": "3UPDk8z1e0sIj1cl+r3EkfxK7qDonY7lbeIUDRPBKpdiB6+0A0C6TGVCwqQEBTarzit3PGCL/o0Pj40k0igiug==",
   "success": true,
   "projectFilePath": "C:\\Users\\linds\\Desktop\\ConsoleApp1\\ConsoleApp1\\AddressBookApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\linds\\.nuget\\packages\\csvhelper\\27.2.0\\csvhelper.27.2.0.nupkg.sha512",
+    "C:\\Users\\linds\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
